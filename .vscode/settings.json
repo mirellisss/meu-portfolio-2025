@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5050,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.root": "/"
+}
